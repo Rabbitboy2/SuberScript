@@ -30,4 +30,6 @@ key.add_hotkey("ctrl+shift+alt+8",lambda: key.write('\u2088'))
 key.add_hotkey("ctrl+shift+9",lambda: key.write('\u2079'))
 key.add_hotkey("ctrl+shift+alt+9",lambda: key.write('\u2089'))
 
+print("SuberScript is Active: Ctrl+C to quit")
+
 key.wait()
