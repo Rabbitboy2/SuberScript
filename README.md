@@ -8,4 +8,5 @@ I haven't tested these shortcuts for all applications so if your program support
 
 Dependencies: 
     Python 3 [install](https://www.python.org/downloads/)
+    
     keyboard Library [install](https://pypi.org/project/keyboard/)
