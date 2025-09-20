@@ -7,6 +7,6 @@ A small python script that adds OS wide keyboard shortcuts for the superscript e
 I haven't tested these shortcuts for all applications so if your program supports sub/superscripts already or any of these shortcuts conflict don't use this script.
 
 Dependencies: 
-    Python 3 [install](https://www.python.org/downloads/)
-    
-    keyboard Library [install](https://pypi.org/project/keyboard/)
+- Python 3 [install](https://python.org/downloads/)
+- keyboard Library 
+    [install](https://pypi.org/project/keyboard/)
